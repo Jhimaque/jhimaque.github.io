@@ -1,0 +1,194 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.banner{
+    width: 100%;
+    height: 100vh;
+}
+
+#image1{
+    position: relative;
+    top: -220px;
+}
+
+.top-left {
+    position: absolute;
+    color: white;
+    top: 19px;
+    left: 15px;
+    font-style: arial;
+    font-size: 24px;
+}
+
+.img-logo{
+    position: relative;
+    top: -1200px;
+    left: 0px;
+    width: 900px;
+    
+}
+
+.menu-text{
+    color: #0F62FE;
+    position: relative;
+    font-size: 400%;
+    top: -1320px;
+    left: -5px;
+}
+
+.bio-text{
+    text-align: center;
+    color: darkslategray;
+    position: relative;
+    top: -1340px;
+    left: -3px;
+}
+
+.profile-title-text{
+    color: #0F62FE;
+    position: relative;
+    font-size: 400%;
+    top: -1000px;
+    left: 5px;
+}
+
+hr{
+    background-color: darkslategray;
+    position: relative;
+    right: -300px;
+    width: 1330px;
+    height: 10px;
+    transform: rotate(-90deg);
+    top: -325px;
+}
+
+.manila-pic{
+    position: relative;
+    width: 500px;
+    top: -840px;
+    left: -450px;
+}
+
+.age-text{
+    color: darkslategray;
+    position: relative;
+    font-size: 300%;
+    top: -1250px;
+    left: -450px;
+}
+
+.birthplace-text{
+    color: darkslategray;
+    position: relative;
+    font-size: 300%;
+    top: -920px;
+    left: -450px;
+}
+
+.genshin-pic{
+    position: relative;
+    width: 280px;
+    top: -840px;
+    left: -500px;
+}
+
+.valo-pic{
+    position: relative;
+    width: 280px;
+    top: -690px;
+    left: -400px;
+}
+
+.computer-text{
+    color: darkslategray;
+    position: relative;
+    font-size: 300%;
+    top: -680px;
+    left: -450px;
+}
+
+.qnhs-pic{
+    position: relative;
+    width: 280px;
+    top: -1660px;
+    left: 780px;
+}
+
+.qnhs-text{
+    color: darkslategray;
+    position: relative;
+    font-size: 200%;
+    top: -1850px;
+    left: 350px;
+}
+
+.shc-pic{
+    position: relative;
+    width: 280px;
+    top: -1680px;
+    left: 200px;
+}
+
+.shc-text{
+    color: darkslategray;
+    position: relative;
+    font-size: 200%;
+    top: -1870px;
+    left: 626px;
+}
+
+.bsu-pic{
+    position: relative;
+    width: 280px;
+    top: -1730px;
+    left: 780px;
+}
+
+.bsu-text{
+    color: darkslategray;
+    position: relative;
+    font-size: 200%;
+    top: -1940px;
+    left: 346px;
+}
+
+.contact-text{
+    color: #0F62FE;
+    position: relative;
+    font-size: 450%;
+    top: -1200px;
+    left: 5px;
+}
+
+.fb-pic{
+    position: relative;
+    width: 180px;
+    top: -1130px;
+    left: -380px;
+}
+
+.twitter-pic{
+    position: relative;
+    width: 210px;
+    top: -850px;
+    left: -575px;
+}
+
+.fb-text{
+    color: darkslategray;
+    position: relative;
+    font-size: 450%;
+    top: -1280px;
+    left: 150px;
+}
+
+.twitter-text{
+    color: darkslategray;
+    position: relative;
+    font-size: 450%;
+    top: -1130px;
+    left: -165px;
+}
